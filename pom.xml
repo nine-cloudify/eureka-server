@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>eureka-server</name>
-    <description>eureka-server</description>
+    <description>eureka-server 服务注册中心</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -59,5 +59,15 @@
         </plugins>
     </build>
 
+    <repositories>
+        <repository>
+            <id>spring-milestones</id>
+            <name>Spring Milestones</name>
+            <url>https://repo.spring.io/milestone</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
 
 </project>
