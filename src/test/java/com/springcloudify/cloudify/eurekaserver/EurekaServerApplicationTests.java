@@ -1,4 +1,4 @@
-package com.springcloudify.cloudy.eurekaserver;
+package com.springcloudify.cloudify.eurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
