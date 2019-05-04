@@ -1,4 +1,4 @@
-package com.springcloudify.cloudy.eurekaserver;
+package com.springcloudify.cloudify.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
